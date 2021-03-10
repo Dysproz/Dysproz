@@ -2,4 +2,4 @@
 [![](https://raw.githubusercontent.com/Dysproz/Dysproz/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Dysproz/Dysproz/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Dysproz/Dysproz/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Dysproz/Dysproz/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<a href="https://www.linkedin.com/in/szymon-piotr-krasuski"><img src="https://www.americanexecutivecenters.com/wp-content/uploads/2015/10/LinkedIn-Button.png" alt="LinkedIn" style="width:32px;height:32px;"></a>
+<a href="https://www.linkedin.com/in/szymon-piotr-krasuski"><img src="https://www.americanexecutivecenters.com/wp-content/uploads/2015/10/LinkedIn-Button.png" alt="LinkedIn" width="64" height="64"></a>
